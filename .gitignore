@@ -1,5 +1,6 @@
 *.log*
 *.pem
 .DS_Store
+.hashes.json
 _prod
 node_modules

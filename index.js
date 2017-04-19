@@ -1,6 +1,8 @@
 /* jshint node: true */
 /* global require */
 
+require('./load-sw.js');
+
 var settings = require('./settings');
 
 require('./load-agent.js');
